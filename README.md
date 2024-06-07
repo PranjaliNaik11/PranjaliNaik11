@@ -9,7 +9,7 @@ Hi there! I'm Pranjali, a data enthusiast with a knack for turning raw data into
 I'm a passionate about data science with a background in computer engineering and a focus on machine learning and data analysis. I enjoy solving complex problems using data-driven approaches and building predictive models that have real-world impact.
 
 ## Skills
-- Programming Languages: Python, R, SQL
+- Programming Languages: Python, R, SQL, SAS
 - Machine Learning: Supervised Learning, Unsupervised Learning, Deep Learning
 - Data Analysis: Pandas, NumPy, Excel, SciPy
 - Data Visualization: Matplotlib, Seaborn, Plotly, Tableau, Power BI
