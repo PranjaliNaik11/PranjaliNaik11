@@ -18,13 +18,15 @@ I'm a passionate about data science with a background in computer engineering an
 - Tools & Libraries: Jupyter Notebook, Scikit-learn
 
 ## Contact Me
+Tableau Public: [Pranjali Naik](https://public.tableau.com/app/profile/pranjalinaik/vizzes)
 LinkedIn: [Pranjali Naik](https://www.linkedin.com/in/pranjali-naik) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranjali-naik)
 
+
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api/top-langs/?username=PranjaliNaik11&layout=compact&langs_count=6)
 
-Tableau Public: [Pranjali Naik](https://public.tableau.com/app/profile/pranjalinaik/vizzes)
+
 
 <!--
 **PranjaliNaik11/PranjaliNaik11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
