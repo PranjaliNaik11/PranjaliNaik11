@@ -19,6 +19,7 @@ I'm a passionate about data science with a background in computer engineering an
 
 ## Contact Me
 Tableau Public: [Pranjali Naik](https://public.tableau.com/app/profile/pranjalinaik/vizzes)
+
 LinkedIn: [Pranjali Naik](https://www.linkedin.com/in/pranjali-naik) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranjali-naik)
